@@ -21,10 +21,10 @@ This is a fully functional **E-Commerce Website** built using **React.js** for t
 Here’s a preview of the E-Commerce Website in action:
 
 1. Home Page
-   ![E-Commerce Demo](public\Screenshots\homePage.png)
+   ![E-Commerce Demo](public/Screenshots/homePage.png)
 
 2. Login Page
-   ![E-Commerce Demo](public\Screenshots\loginPage.png)
+   ![E-Commerce Demo](public/Screenshots/loginPage.png)
 
 3. Cart Page
-   ![E-Commerce Demo](public\Screenshots\cartPage.png)
+   ![E-Commerce Demo](public/Screenshots/cartPage.png)
